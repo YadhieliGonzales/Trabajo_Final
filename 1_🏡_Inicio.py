@@ -10,8 +10,6 @@
 # Importamos las librerías necesarias
 import streamlit as st #Usada para crear el interfaz en donde podremos hacer la página
 import pandas as pd #Utilizada para la manipulación y análisis de datos, se usará para manejar la base de datos
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 import numpy as np #Librería para trabajar con arrays y matrices (por si acaso)
 from PIL import Image
 import streamlit as st
