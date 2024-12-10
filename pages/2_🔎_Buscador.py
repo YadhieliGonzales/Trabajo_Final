@@ -3,6 +3,7 @@ import pandas as pd #Ya mencionado anteriormente, permite manipular y manejar lo
 import streamlit as st
 import numpy as np #ofrece herramientas que manejan datos númericos
 import function as fl 
+import folium
 
 #PASO 01
 #Cargamos la base de datos de películas
