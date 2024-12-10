@@ -13,6 +13,7 @@ import pandas as pd #Utilizada para la manipulación y análisis de datos, se us
 import numpy as np #Librería para trabajar con arrays y matrices (por si acaso)
 from PIL import Image
 import streamlit as st
+import matplotlib.pyplot as plt
 
 #Para personalizar nuestra página, cambiaremos la apariencia principal
 st.set_page_config(
