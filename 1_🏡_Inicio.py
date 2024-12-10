@@ -15,9 +15,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np #Librería para trabajar con arrays y matrices (por si acaso)
 from PIL import Image
-import function as fl #no borrar, por si acaso
 import streamlit as st
-import folium
 
 #Para personalizar nuestra página, cambiaremos la apariencia principal
 st.set_page_config(
