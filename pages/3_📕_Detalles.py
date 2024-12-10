@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from streamlit_folium import folium_static
+import folium
 
 #PASO 00
 #Cargamos la base de datos de películas
